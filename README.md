@@ -2,7 +2,7 @@
 
 A lightweight Windows desktop app built with Tauri that lets you paste images from your clipboard, automatically save them to your Downloads folder, and drag them into other applications.
 
-<!-- screenshot -->
+<p align="center"><img src="screenshot.png" alt="PasteBox window" width="340"></p>
 
 ## Features
 
