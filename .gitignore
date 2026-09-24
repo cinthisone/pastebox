@@ -33,3 +33,13 @@ systemd-private-*
 ssh-*
 remote-wsl-loc.txt
 resize-icon.js
+
+# Local caches / tool state
+node-compile-cache/
+.claude/
+.cursor/
+snap-private-tmp/
+systemd-private-*/
+ssh-*/
+.X11-unix/
+remote-wsl-loc.txt

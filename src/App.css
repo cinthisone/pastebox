@@ -92,6 +92,14 @@ body {
   background: #e81123;
 }
 
+.titlebar-button.wsl-toggle {
+  font-size: 14px;
+}
+
+.titlebar-button.wsl-toggle:hover {
+  background: rgba(102, 126, 234, 0.4);
+}
+
 /* Main content area */
 .content {
   flex: 1;
